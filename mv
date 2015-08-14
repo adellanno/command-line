@@ -1,0 +1,5 @@
+The "mv" cmd is used to move a specific file from one location to another. For example "mv fileToBeMoved ../fileToBeMoved. The
+"mv" cmd takes two parameters. The first is the file name (and it's location if not in the current working directory) and
+the second is where it will be moved to. In this case we didn't need to specifiy the path of fileToBeMoved because it was
+already in our working directory. If the second parameter given is a different name to that of the original then the file
+will be be renamed to the new given name. 
