@@ -1,0 +1,6 @@
+The "grep" cmd is a search tool use for searching only for files that contain a specific word. For example:
+
+grep ruby *.txt 
+
+would only return text files that contain the word 'ruby'. Using a pipe, it is also possible to redirect
+output to grep. 
