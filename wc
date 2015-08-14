@@ -1,0 +1,5 @@
+The "wc" cmd is used to count the words within a given file. For example:
+
+wc longText.txt
+
+This provides us with three bits of information - line count, word count, and characters.
